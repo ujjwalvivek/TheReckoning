@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PW - Nature
+  - PW - Prop
+  - PW - Building
+  - Synty Tree
+  - Synty Medium Farm
+  - Synty Small Farm
+  - Weapon
+  - Fire
+  - Headshot
+  - Bodyshot
+  - NameTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - whatIsGround
+  - whatIsWall
+  - whatIsLadder
+  - whatIsPlayer
+  - postProcessing
+  - whatIsObject
+  - PW_VFX
+  - PW_Object_Small
+  - PW_Object_Medium
+  - PW_Object_Large
+  - Weapon
+  - Player
+  - Colors
+  - GunLayer
+  - NameTag
+  - WeaponAura
+  - ShortDistanceView
+  - WeaponHands
+  - Torch
+  - MenuColor
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
